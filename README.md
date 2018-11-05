@@ -1,2 +1,8 @@
 # opencv_project
 Featured Image extractions
+# Featured Image extractions
+## Written by: * Ronny Meza *
+
+The course project focused on *extraction of image features*; Because it is an important component of the process of pattern recognition and image processing, feature extraction begins with an initial set of data usually defined by static images or video images, this images are processed and an image is constructed, arrangement of derived values, defined as characteristics, which are intended to be informative and non-redundant, facilitating learning and generalization processes, and in some cases they are used to improve human interpretations. The extraction of characteristics is related to the reduction of dimensionality, which is approached by techniques of analysis of the content of variance as it is the analysis of main components.
+
+When the input data of an algorithm is too large to be processed and the structure of the data is suspected to be redundant, then it can be transformed into a reduced set of characteristics (also called *feature vector*). The determination of a subset of the initial characteristics is called feature selection. It is expected that the selected features contain the relevant information of the input data, so that the desired task can be performed using this reduced representation instead of the full initial data. During the development of the different activities of the project different techniques of extraction of image characteristics will be addressed and in the end automatic learning algorithms will be used to identify key features of the human face.
